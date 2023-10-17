@@ -5,7 +5,7 @@ Codes for the paper entitled "Surface segregation machine-learned with inexpensi
 
 **Closed-loop hyper-parameter tuning of DNN model using Bayesian optimization (BO) and 10-fold CV:**
 
-<img src="imgs/figure2a.png" alt="figure1" width="50%" height="50%" />
+<img src="imgs/figure2a.png" alt="figure1" width="50%" height="50%" align="center" />
 
 The flowchart above was re-designed based on the figure in the original paper [*Mol. Catal.* **2023**, 541, 113096]. 
 
