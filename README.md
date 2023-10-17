@@ -13,8 +13,18 @@ The flowchart above was re-designed based on the figure in the original paper [*
 
 ## Included Codes
 
+###  Hyper-parameter tuning
+
 - `using_keras_tuner.py`: code for hyper-parameter tuning of DNN model for surface segregation energy (E<sub>segr</sub>)
-- `run.sh`: a shell script to prevent the python code from stopping
+- `run.sh`: a shell script to prevent the python code from stopping  sdf
+
+### Principal Component Analysis (PCA)
+
+- `PCA_plots.ipynb`
+
+### Analyses based on predicted *E*<sub>segr</sub> values
+
+- `Esegr_vs_CN_SHAP_screening.ipynb`
 
 ## Application of This Code
 
