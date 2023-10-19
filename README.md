@@ -15,7 +15,7 @@ The flowchart above was re-designed based on the figure in the original paper [*
 
 ####  Hyper-parameter tuning
 
-- `using_keras_tuner.py`: code for hyper-parameter tuning of DNN model for surface segregation energy (E<sub>segr</sub>) [link](https://github.com/dongjae-shin/SegrDNN/blob/main/codes/using_keras_tuner.py)
+- `using_keras_tuner.py`: for hyper-parameter tuning of DNN model for surface segregation energy (E<sub>segr</sub>) [link](https://github.com/dongjae-shin/SegrDNN/blob/main/codes/using_keras_tuner.py)
 - `run.sh`: a shell script to prevent the python code from stopping [link](https://github.com/dongjae-shin/SegrDNN/blob/main/codes/run.sh)
 
 #### Principal Component Analysis (PCA)
