@@ -20,7 +20,7 @@ The flowchart above was re-designed based on the figure in the original paper [*
 
 #### Principal Component Analysis (PCA)
 
-- `PCA_plots.ipynb`
+- `PCA_plots.ipynb` [link](codes/PCA_plots.ipynb)
 
 #### Analyses based on predicted *E*<sub>segr</sub> values
 
